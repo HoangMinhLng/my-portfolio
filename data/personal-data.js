@@ -3,7 +3,7 @@ const personalData = {
   name: 'Hoàng Minh',
   photo: 'profile.png', 
   profession: 'Information',
-  email: ['hi@lamnguyenhoangminh.info.vn',
+  email: ['minh@orcyn.vn',
           'hoangminh.lamnguyenn@gmail.com'],
   contactNumber: '0975 241 857',
   address: 'Hồ Chí Minh, Việt Nam',

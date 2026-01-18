@@ -4,14 +4,14 @@ const projects = [
     image: 'my portfolio.png', 
     description: 'This is an online CV where I showcase my work, share my knowledge, and introduce myself.',
     type: 'videos',
-    link: 'https://github.com/HoangMinhLng/MyWebsite'
+    link: 'https://lamnguyenhoangminh.info.vn/'
   },
   {
     title: 'My Website',
     image: 'my website.png', 
     description: 'This website was created for me to write blogs, introduce myself, and share knowledge—everything I have learned.',
     type: 'code',
-    link: 'https://lamnguyenhoangminh.info.vn/'
+    link: 'https://orcyn.vn/'
   },
   {
     title: 'Tarot Poster Design Project',
